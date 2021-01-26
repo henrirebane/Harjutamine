@@ -1,0 +1,1 @@
+Edaspidi on mul võimalik kasutada GitHub'i platformi, et töödata koos teisega koodimises. Ning, et näha mida teised on programeerinud.
